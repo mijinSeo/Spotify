@@ -11,3 +11,4 @@
 **Windows11, Replit**
 
 📌**https://mijinseo.github.io/Spotify/**
+![spotify](https://github.com/mijinSeo/Spotify/assets/127110439/94d1e39d-f72b-4d72-b599-0a271fea60c4)
